@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dumbashell113
-- 👀 I’m interested in telegram bots
-- 🌱 I’m currently learning C++ basics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kazuma
+- 👀 I’m interested in telegram bots, website building 
+- 🌱 I’m currently learning C, JuPyter Notebook, HTML, CSS. 
+- 💞️ I’m looking to collaborate on ...nothing rn
 - 📫 How to reach me ...
 
 <!---
