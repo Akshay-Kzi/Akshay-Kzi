@@ -1,5 +1,5 @@
 -![MasterHead](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Kazuma </h1>
+<h1 align="center">Hi 👋, I'm Akshay Kumar </h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </p>
@@ -12,13 +12,12 @@
 
 - 🤝 I’m looking for help with learning programming languages
 
-- 📫 How to reach me kazumadumb@gmail.com
+- 📫 How to reach me akshaykumar11356@gmail.com
 
 - ⚡ I don't know anything 
 
 - 🤡  I fork a lot
 
-- This was also copy pasted here :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
