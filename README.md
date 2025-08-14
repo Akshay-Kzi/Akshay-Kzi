@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with learning programming languages
 
-- 📫 How to reach me? mailto:akshaykumar11356@gmail.com
+- 📫 How to reach me? [![Email Me](https://img.shields.io/badge/Akshay-Kzie%40gmail.com-red)](mailto:akshay11356@gmail.com)
 
-- ⚡ I don't know anything 
 
-- 🤡  I fork a lot
+- ⚡ I like FOSS 
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +36,6 @@
 --->
 
 <!---
-dumbashell113/dumbashell113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Akshay-Kzi/Akshay-Kzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
