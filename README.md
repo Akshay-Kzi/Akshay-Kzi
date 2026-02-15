@@ -60,3 +60,4 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nerd+Font&duration=6000&pause=2000&color=59F77F&center=true&vCenter=true&width=435&lines=sudo+rm+-rf+--no-preserve-root+%2F)](https://git.io/typing-svg)
