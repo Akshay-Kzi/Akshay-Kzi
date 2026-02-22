@@ -12,11 +12,15 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/Akshay.kzi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshaykumar11356@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kzi/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/a-kzi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/Akshay.kzi)
+<!-- 
+Is LeetCode a social? Is it needed here? 🤔
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/a-kzi/) 
+-->
 
 ---
 
@@ -51,12 +55,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
 
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Akshay-Kzi&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Akshay-Kzi&theme=catppuccin_mocha&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Kzi&theme=catppuccin_mocha&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Akshay-Kzi&bg_color=0d1117&title_color=194894&text_color=ffffff&icon_color=194894&border_color=194894&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Akshay-Kzi&background=0d1117&ring=194894&fire=194894&currStreakLabel=194894&sideNums=ffffff&currStreakNum=ffffff&dates=cccccc&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Kzi&bg_color=0d1117&title_color=194894&text_color=ffffff&icon_color=194894&border_color=194894&layout=compact&hide_border=true)
 
 ---
 
